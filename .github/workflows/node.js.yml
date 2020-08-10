@@ -34,4 +34,4 @@ jobs:
         npm install
         npm test
       env:
-        CI: false
+        CI: true
